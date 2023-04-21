@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295493165266",
+    "project_id": "buchekagram",
+    "storage_bucket": "buchekagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295493165266:android:078a21ef95742d36ed0d0b",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295493165266-c4eaopnrnqgpk7bh8cn5a5e41isavbgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDP2FNZDPMikWrTYxO-o7YEFCDIryH4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295493165266-c4eaopnrnqgpk7bh8cn5a5e41isavbgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
